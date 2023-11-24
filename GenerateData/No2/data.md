@@ -1,0 +1,2 @@
+abstract,realistic,nervous,awkward,irritable,red,orange,at work,computer screen,<lora:江南梦 Jiangnan Dream_v1.0:1>,
+Steps: 28, Sampler: DPM++ 2M Karras, CFG scale: 5, Seed: 2464937496, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, VAE hash: f921fb3f29, VAE: animevae.pt, Clip skip: 2, Lora hashes: "江南梦 Jiangnan Dream_v1.0: 06d30dd52d0d", Version: v1.6.0

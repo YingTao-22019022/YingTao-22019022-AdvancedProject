@@ -1,0 +1,2 @@
+Collapsed characters,characters doing illogical things,nervous and irritable,red,black and white,very dark,escape,tracking,<lora:江南梦 Jiangnan Dream_v1.0:1>,
+Steps: 28, Sampler: DPM++ 2M SDE Heun Exponential, CFG scale: 5, Seed: 2825304123, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, VAE hash: f921fb3f29, VAE: animevae.pt, Clip skip: 2, Lora hashes: "江南梦 Jiangnan Dream_v1.0: 06d30dd52d0d", Version: v1.6.0

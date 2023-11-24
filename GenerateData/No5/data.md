@@ -1,0 +1,2 @@
+dreaming, thinking, lavender, sky, grass, seaside, bright,<lora:江南梦 Jiangnan Dream_v1.0:1>,<lora:蓝色幻想_v1.0:1>,
+Steps: 28, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1464931037, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, VAE hash: f921fb3f29, VAE: animevae.pt, Clip skip: 2, Lora hashes: "江南梦 Jiangnan Dream_v1.0: 06d30dd52d0d, 蓝色幻想_v1.0: a774608dcbdb", Version: v1.6.0

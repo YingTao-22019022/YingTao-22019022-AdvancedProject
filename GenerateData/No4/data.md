@@ -1,0 +1,2 @@
+Nervous,excited,green,cyan,black and white,road,loneliness,bus stop,confused,maze,unable to communicate,<lora:江南梦 Jiangnan Dream_v1.0:1>,
+Steps: 28, Sampler: DPM++ 2M SDE Heun Exponential, CFG scale: 5, Seed: 2127477180, Size: 512x512, Model hash: 7f96a1a9ca, Model: anything-v5-PrtRE, VAE hash: f921fb3f29, VAE: animevae.pt, Clip skip: 2, Lora hashes: "江南梦 Jiangnan Dream_v1.0: 06d30dd52d0d", Version: v1.6.0
