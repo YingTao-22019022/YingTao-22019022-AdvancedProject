@@ -1,6 +1,7 @@
 ## Project Log: **A Conceptual Game Design Exploring the Nexus of Human Dreams and AI Image Generation**
 
 GitHub: https://github.com/YingTao-22019022/YingTao-22019022-AdvancedProject
+https://github.com/YingTao-22019022/YingTao-MScAdvancedProject
 
 Video: https://youtu.be/z7acOiIjccU
 
@@ -18,7 +19,7 @@ For me, it's not just about making a critical project, but I also want the proje
 
 Based on this idea, I started a series of plans and experiments.
 
-![1280X1280](.\READMEPHOTO\1280X1280.PNG)
+![](.\READMEPHOTO\1280X1280.PNG)
 
 
 
