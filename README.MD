@@ -1,6 +1,6 @@
 ## Project Log: **A Conceptual Game Design Exploring the Nexus of Human Dreams and AI Image Generation**
 
-GitHub: 
+GitHub: https://github.com/YingTao-22019022/YingTao-22019022-AdvancedProject
 
 Video: https://youtu.be/z7acOiIjccU
 
